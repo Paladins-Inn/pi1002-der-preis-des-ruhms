@@ -30,10 +30,10 @@
       "flags": {}
     }
   ],
-  "license": "https://www.paladins-inn.de/foundryvtt/license",
-  "url": "https://www.paladins-inn.de/pi1002-der-preis-des-ruhms",
-  "manifest": "https://github.com/Paladins-Inn/pi1002-der-preis-des-ruhms/blob/main/module.json?raw=true",
-  "download": "https://github.com/Paladins-Inn/pi1002-der-preis-des-ruhms/archive/refs/tags/v0.1.0.zip",
+  "license": "https://www.paladins-inn.de/fvtt/license",
+  "url": "https://www.paladins-inn.de/fvtt/pi1002",
+  "manifest": "https://www.paladins-inn.de/fvtt/pi1002/v11/manifest.json",
+  "download": "https://www.paladins-inn.de/fvtt/pi1002/v11/module.zip",
   "compatibility": {
     "minimum": "11",
     "verified": "11.315"

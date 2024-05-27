@@ -1,5 +1,14 @@
-2024/05/27-10:21:41.318010 7f5fb3402b38 Log #30: 0 ops saved to Table #33 OK
-2024/05/27-10:21:41.321277 7f5fb3402b38 Archiving /data/Data/modules/pi1002-der-preis-des-ruhms/packs/pi1002-de-journal/000030.log: OK
-2024/05/27-10:21:41.321760 7f5fb3402b38 Table #32: 11 entries OK
-2024/05/27-10:21:41.326931 7f5fb3402b38 Archiving /data/Data/modules/pi1002-der-preis-des-ruhms/packs/pi1002-de-journal/MANIFEST-000028: OK
-2024/05/27-10:21:41.331955 7f5fb3402b38 **** Repaired leveldb /data/Data/modules/pi1002-der-preis-des-ruhms/packs/pi1002-de-journal; recovered 1 files; 4611 bytes. Some data may have been lost. ****
+2024/05/27-13:21:23.211611 7f5fb3e02b38 Recovering log #36
+2024/05/27-13:21:23.220770 7f5fb3e02b38 Delete type=3 #34
+2024/05/27-13:21:23.221918 7f5fb3e02b38 Delete type=0 #36
+2024/05/27-13:33:07.994057 7f5d2e85ab38 Level-0 table #42: started
+2024/05/27-13:33:08.003424 7f5d2e85ab38 Level-0 table #42: 7250 bytes OK
+2024/05/27-13:33:08.006945 7f5d2e85ab38 Delete type=0 #40
+2024/05/27-13:33:08.036303 7f5d2e85ab38 Manual compaction at level-0 from '!journal!0dGoe4r9z63Yi9IE' @ 72057594037927935 : 1 .. 'pi1001-de-journal.test2' @ 0 : 0; will stop at '!journal.pages!0dGoe4r9z63Yi9IE.mRJJ3onbzBEIHMjQ' @ 1147 : 1
+2024/05/27-13:33:08.036398 7f5d2e85ab38 Compacting 1@0 + 1@1 files
+2024/05/27-13:33:08.060491 7f5d2e85ab38 Generated table #43@0: 23 keys, 44530 bytes
+2024/05/27-13:33:08.060512 7f5d2e85ab38 Compacted 1@0 + 1@1 files => 44530 bytes
+2024/05/27-13:33:08.062141 7f5d2e85ab38 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/05/27-13:33:08.063290 7f5d2e85ab38 Delete type=2 #42
+2024/05/27-13:33:08.064715 7f5d2e85ab38 Delete type=2 #38
+2024/05/27-13:33:08.065998 7f5d2e85ab38 Manual compaction at level-0 from '!journal.pages!0dGoe4r9z63Yi9IE.mRJJ3onbzBEIHMjQ' @ 1147 : 1 .. 'pi1001-de-journal.test2' @ 0 : 0; will stop at (end)

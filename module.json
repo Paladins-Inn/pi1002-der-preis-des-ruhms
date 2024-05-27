@@ -1,0 +1,228 @@
+{
+  "id": "pi1002-der-preis-des-ruhms",
+  "title": "Torganisiertes Spiel - Der Preis des Ruhms",
+  "version": "0.1.0",
+  "description": "<p>Die Possibility Wars toben seit fast einem Jahr. Die Storm Knights sind bereits ein Team, das seit vielen Wochen zusammenarbeit. Sie sind in der Lincoln University, einem Fixpunkt im Lebenden Land, stationiert. Tatsächlich handelt es sich um einen der wenigen verbliebenen Fixpunkte in Missouri. Edeinos haben im Rahmen zahlreicher Überfälle die anderen Fixpunkte überwältigt und zerstört. Das Team hat hier zwei Aufträge. Die Helden sollen den Halt der Zentralerde in der Region sichern und verteidigen. Und sie sollen die umliegenden Gegenden nach Wundern auskundschaften.</p><p>Hierbei handelt es sich um ein spezielles Abenteuer, das für den GenCon 2017 geschrieben wurde. Es bietet den Storm Knights die Wahl, ob sie die Bewohner eines Fixpunkts retten, eine Stele entwurzeln. Oder ob sie eine Entdeckung über eine potenzielle neute Realität machen wollen.</p><p>US8299D<br/>ISBN 978-3-96331-559-6</p>",
+  "authors": [
+    {
+      "name": "Ulisses Spiele",
+      "email": "feedback@ulisses-spiele.de",
+      "url": "https://ulisses-spiele.de",
+    },
+    {
+      "name": "Paladins Inn",
+      "email": "info@paladins-inn.de",
+      "url": "https://www.paladins-inn.de/",
+      "discord": "klenkes74"
+    }
+  ],
+  "languages": [
+    {
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "lang/de.json",
+      "flags": {}
+    },
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json",
+      "flags": {}
+    }
+  ],
+  "license": "https://www.paladins-inn.de/foundryvtt/license",
+  "url": "https://www.paladins-inn.de/pi1002-der-preis-des-ruhms",
+  "manifest": "https://github.com/Paladins-Inn/pi1002-der-preis-des-ruhms/blob/main/module.json?raw=true",
+  "download": "https://github.com/Paladins-Inn/pi1002-der-preis-des-ruhms/archive/refs/tags/v0.1.0.zip",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.315"
+  },
+  "esmodules": [
+    "pi1002-der-preis-des-ruhms.js"
+  ],
+  "media": [
+    {
+      "type": "setup",
+      "url": "modules/pi1002-der-preis-des-ruhms/assets/art/setup.webp",
+      "thumbnail": "modules/pi000-XXXX/assets/art/setup-thumb.webp",
+      "loop": false,
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "torgeternity",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "requires": [
+      {
+        "id": "gAudioBundle-1",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "gAudioBundle-2",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "gAudioBundle-3",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "gAudioBundle-4",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "levels",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "wall-height",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "warpgate",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "multistatus",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "multilevel-tokens",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "tokenmagic",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "about-time",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "times-up",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "fxmaster",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "pi1002-de-journal",
+      "label": "Der Preis des Ruhms Journal (de)",
+      "path": "packs/pi1002-de-journal",
+      "type": "JournalEntry",
+      "system": "torgeternity",
+      "ownership": {
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "pi1002-de-items",
+      "label": "Der Preis des Ruhms Gegenstände (de)",
+      "path": "packs/pi1002-de-items",
+      "type": "Item",
+      "system": "torgeternity",
+      "ownership": {
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "pi1002-de-actors",
+      "label": "Der Preis des Ruhms Akteure/Bedrohungen (de)",
+      "path": "packs/pi1002-de-actors",
+      "type": "Actor",
+      "system": "torgeternity",
+      "ownership": {
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "pi1002-de-scenes",
+      "label": "Der Preis des Ruhms Szenen (de)",
+      "path": "packs/pi1002-de-scenes",
+      "type": "Scene",
+      "system": "torgeternity",
+      "ownership": {
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "pi1002-de-adventures",
+      "label": "Der Preis des Ruhms Abenteuer (de)",
+      "path": "packs/pi1002-de-adventures",
+      "type": "Adventure",
+      "system": "torgeternity",
+      "ownership": {
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "pi1002-de-rolltables",
+      "label": "Der Preis des Ruhms Würfeltabellen (de)",
+      "path": "packs/pi1002-de-rolltables",
+      "type": "RollTable",
+      "system": "torgeternity",
+      "ownership": {
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "pi1002-playlists",
+      "label": "Der Preis des Ruhms Playlists",
+      "path": "packs/pi1002-playlists",
+      "type": "Playlist",
+      "system": "torgeternity",
+      "ownership": {
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Torganisiertes Spiel - Der Preis des Ruhms",
+      "sorting": "m",
+      "color": "#6600CC",
+      "packs": [
+        "pi1002-playlists"
+      ],
+      "folders": [
+        {
+          "name": "Deutsch",
+          "sorting": "m",
+          "color": "#960000",
+          "packs": [
+            "pi1002-de-journal",
+            "pi1002-de-items",
+            "pi1002-de-adventures",
+            "pi1002-de-actors",
+            "pi1002-de-scenes",
+            "pi1002-de-rolltables"
+          ]
+        }
+      ]
+    }
+  ]
+}

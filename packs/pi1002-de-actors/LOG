@@ -1,8 +1,15 @@
-2024/05/27-13:33:17.248194 7f5fb3e02b38 Recovering log #22
-2024/05/27-13:33:17.278978 7f5fb3e02b38 Delete type=0 #22
-2024/05/27-13:33:17.280400 7f5fb3e02b38 Delete type=3 #20
-2024/05/27-13:33:33.128546 7f5d2e85ab38 Level-0 table #27: started
-2024/05/27-13:33:33.129095 7f5d2e85ab38 Level-0 table #27: 0 bytes OK
-2024/05/27-13:33:33.135755 7f5d2e85ab38 Delete type=0 #25
-2024/05/27-13:33:33.162309 7f5d2e85ab38 Manual compaction at level-0 from '!actors!1W5X0YbrsFVrgWik' @ 72057594037927935 : 1 .. '!actors.items.effects!mqwCtph1YIxr36Y4.nIyBEBphrb3FzvHP.k1IcuIZCGFquQuZw' @ 0 : 0; will stop at (end)
-2024/05/27-13:33:33.162762 7f5d2e85ab38 Manual compaction at level-1 from '!actors!1W5X0YbrsFVrgWik' @ 72057594037927935 : 1 .. '!actors.items.effects!mqwCtph1YIxr36Y4.nIyBEBphrb3FzvHP.k1IcuIZCGFquQuZw' @ 0 : 0; will stop at (end)
+2024/05/27-21:29:29.937338 7f5fb3e02b38 Recovering log #30
+2024/05/27-21:29:29.964326 7f5fb3e02b38 Delete type=0 #30
+2024/05/27-21:29:29.965486 7f5fb3e02b38 Delete type=3 #28
+2024/05/28-04:54:10.291704 7f5d2e85ab38 Level-0 table #35: started
+2024/05/28-04:54:10.309973 7f5d2e85ab38 Level-0 table #35: 10803 bytes OK
+2024/05/28-04:54:10.313537 7f5d2e85ab38 Delete type=0 #33
+2024/05/28-04:54:10.340320 7f5d2e85ab38 Manual compaction at level-0 from '!actors!1W5X0YbrsFVrgWik' @ 72057594037927935 : 1 .. '!actors.items.effects!mqwCtph1YIxr36Y4.nIyBEBphrb3FzvHP.k1IcuIZCGFquQuZw' @ 0 : 0; will stop at (end)
+2024/05/28-04:54:10.364560 7f5d2e85ab38 Manual compaction at level-1 from '!actors!1W5X0YbrsFVrgWik' @ 72057594037927935 : 1 .. '!actors.items.effects!mqwCtph1YIxr36Y4.nIyBEBphrb3FzvHP.k1IcuIZCGFquQuZw' @ 0 : 0; will stop at '!actors.items!YpxVxpNPQ3pmGHa3.idndvhbDioeO9blh' @ 70 : 1
+2024/05/28-04:54:10.364569 7f5d2e85ab38 Compacting 1@1 + 1@2 files
+2024/05/28-04:54:10.384084 7f5d2e85ab38 Generated table #36@1: 64 keys, 59962 bytes
+2024/05/28-04:54:10.384114 7f5d2e85ab38 Compacted 1@1 + 1@2 files => 59962 bytes
+2024/05/28-04:54:10.386501 7f5d2e85ab38 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/28-04:54:10.387739 7f5d2e85ab38 Delete type=2 #35
+2024/05/28-04:54:10.389101 7f5d2e85ab38 Delete type=2 #19
+2024/05/28-04:54:10.397046 7f5d2e85ab38 Manual compaction at level-1 from '!actors.items!YpxVxpNPQ3pmGHa3.idndvhbDioeO9blh' @ 70 : 1 .. '!actors.items.effects!mqwCtph1YIxr36Y4.nIyBEBphrb3FzvHP.k1IcuIZCGFquQuZw' @ 0 : 0; will stop at (end)

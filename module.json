@@ -1,19 +1,21 @@
 {
   "id": "pi1002-der-preis-des-ruhms",
   "title": "Torganisiertes Spiel - Der Preis des Ruhms",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "<p>Die Possibility Wars toben seit fast einem Jahr. Die Storm Knights sind bereits ein Team, das seit vielen Wochen zusammenarbeit. Sie sind in der Lincoln University, einem Fixpunkt im Lebenden Land, stationiert. Tatsächlich handelt es sich um einen der wenigen verbliebenen Fixpunkte in Missouri. Edeinos haben im Rahmen zahlreicher Überfälle die anderen Fixpunkte überwältigt und zerstört. Das Team hat hier zwei Aufträge. Die Helden sollen den Halt der Zentralerde in der Region sichern und verteidigen. Und sie sollen die umliegenden Gegenden nach Wundern auskundschaften.</p><p>Hierbei handelt es sich um ein spezielles Abenteuer, das für den GenCon 2017 geschrieben wurde. Es bietet den Storm Knights die Wahl, ob sie die Bewohner eines Fixpunkts retten, eine Stele entwurzeln. Oder ob sie eine Entdeckung über eine potenzielle neute Realität machen wollen.</p><p>US8299D<br />ISBN 978-3-96331-559-6</p>",
   "authors": [
     {
       "name": "Ulisses Spiele",
       "email": "feedback@ulisses-spiele.de",
-      "url": "https://ulisses-spiele.de"
+      "url": "https://ulisses-spiele.de",
+      "flags": {}
     },
     {
       "name": "Paladins Inn",
       "email": "info@paladins-inn.de",
       "url": "https://www.paladins-inn.de/",
-      "discord": "klenkes74"
+      "discord": "klenkes74",
+      "flags": {}
     }
   ],
   "languages": [
@@ -36,7 +38,6 @@
   "download": "https://www.paladins-inn.de/fvtt/pi1002/v11/module.zip",
   "compatibility": {
     "minimum": "11",
-    "maximum": "12",
     "verified": "12"
   },
   "media": [
@@ -135,7 +136,8 @@
       "system": "torgeternity",
       "ownership": {
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "pi1002-de-items",
@@ -145,7 +147,8 @@
       "system": "torgeternity",
       "ownership": {
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "pi1002-de-actors",
@@ -155,7 +158,8 @@
       "system": "torgeternity",
       "ownership": {
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "pi1002-de-scenes",
@@ -165,7 +169,8 @@
       "system": "torgeternity",
       "ownership": {
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "pi1002-de-adventures",
@@ -175,7 +180,8 @@
       "system": "torgeternity",
       "ownership": {
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "pi1002-de-rolltables",
@@ -185,7 +191,8 @@
       "system": "torgeternity",
       "ownership": {
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "pi1002-playlists",
@@ -195,7 +202,8 @@
       "system": "torgeternity",
       "ownership": {
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     }
   ],
   "packFolders": [

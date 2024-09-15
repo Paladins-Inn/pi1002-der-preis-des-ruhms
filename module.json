@@ -44,7 +44,7 @@
     {
       "type": "setup",
       "url": "modules/pi1002-der-preis-des-ruhms/assets/art/setup.webp",
-      "thumbnail": "modules/pi1002-XXXX/assets/art/setup-thumb.webp",
+      "thumbnail": "modules/pi1002-der-preis-des-ruhms/assets/art/setup-thumb.webp",
       "loop": false,
       "flags": {}
     }
@@ -59,37 +59,7 @@
     ],
     "requires": [
       {
-        "id": "gAudioBundle-1",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "gAudioBundle-2",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "gAudioBundle-3",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "gAudioBundle-4",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "levels",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "wall-height",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "warpgate",
+        "id": "te004-living-land",
         "type": "module",
         "compatibility": {}
       }

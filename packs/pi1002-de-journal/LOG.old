@@ -1,14 +1,14 @@
-2024/09/15-10:28:03.772290 7f6de7402b38 Recovering log #79
-2024/09/15-10:28:03.834460 7f6de7402b38 Delete type=3 #77
-2024/09/15-10:28:03.836043 7f6de7402b38 Delete type=0 #79
-2024/09/15-10:38:49.789310 7f6b633f2b38 Level-0 table #84: started
-2024/09/15-10:38:49.813944 7f6b633f2b38 Level-0 table #84: 41021 bytes OK
-2024/09/15-10:38:49.825036 7f6b633f2b38 Delete type=0 #82
-2024/09/15-10:38:49.831279 7f6b633f2b38 Manual compaction at level-0 from '!journal!0dGoe4r9z63Yi9IE' @ 72057594037927935 : 1 .. 'pi1001-de-journal.test2' @ 0 : 0; will stop at '!journal.pages!qnRJnBYJWIFhH2Db.xXUxNTB68q1CUyoL' @ 1165 : 1
-2024/09/15-10:38:49.831294 7f6b633f2b38 Compacting 1@0 + 1@1 files
-2024/09/15-10:38:49.843801 7f6b633f2b38 Generated table #85@0: 23 keys, 44549 bytes
-2024/09/15-10:38:49.843821 7f6b633f2b38 Compacted 1@0 + 1@1 files => 44549 bytes
-2024/09/15-10:38:49.845288 7f6b633f2b38 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/09/15-10:38:49.845887 7f6b633f2b38 Delete type=2 #56
-2024/09/15-10:38:49.847031 7f6b633f2b38 Delete type=2 #84
-2024/09/15-10:38:49.869815 7f6b633f2b38 Manual compaction at level-0 from '!journal.pages!qnRJnBYJWIFhH2Db.xXUxNTB68q1CUyoL' @ 1165 : 1 .. 'pi1001-de-journal.test2' @ 0 : 0; will stop at (end)
+2024/09/15-11:42:40.007867 7fcdd9602b38 Recovering log #83
+2024/09/15-11:42:40.014951 7fcdd9602b38 Delete type=3 #81
+2024/09/15-11:42:40.015570 7fcdd9602b38 Delete type=0 #83
+2024/09/15-11:50:27.331935 7fc8d4162b38 Level-0 table #89: started
+2024/09/15-11:50:27.335854 7fc8d4162b38 Level-0 table #89: 43989 bytes OK
+2024/09/15-11:50:27.337754 7fc8d4162b38 Delete type=0 #87
+2024/09/15-11:50:27.346849 7fc8d4162b38 Manual compaction at level-0 from '!journal!0dGoe4r9z63Yi9IE' @ 72057594037927935 : 1 .. 'pi1001-de-journal.test2' @ 0 : 0; will stop at '!journal.pages!0dGoe4r9z63Yi9IE.xXUxNTB68q1CUyoL' @ 1207 : 1
+2024/09/15-11:50:27.346860 7fc8d4162b38 Compacting 1@0 + 1@1 files
+2024/09/15-11:50:27.350916 7fc8d4162b38 Generated table #90@0: 23 keys, 44543 bytes
+2024/09/15-11:50:27.350933 7fc8d4162b38 Compacted 1@0 + 1@1 files => 44543 bytes
+2024/09/15-11:50:27.352288 7fc8d4162b38 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/09/15-11:50:27.353218 7fc8d4162b38 Delete type=2 #85
+2024/09/15-11:50:27.354469 7fc8d4162b38 Delete type=2 #89
+2024/09/15-11:50:27.381668 7fc8d4162b38 Manual compaction at level-0 from '!journal.pages!0dGoe4r9z63Yi9IE.xXUxNTB68q1CUyoL' @ 1207 : 1 .. 'pi1001-de-journal.test2' @ 0 : 0; will stop at (end)

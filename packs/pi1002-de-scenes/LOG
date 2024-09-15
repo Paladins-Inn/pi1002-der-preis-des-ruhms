@@ -1,15 +1,8 @@
-2024/09/15-11:42:40.069906 7fcdd8c02b38 Recovering log #63
-2024/09/15-11:42:40.076976 7fcdd8c02b38 Delete type=0 #63
-2024/09/15-11:42:40.077760 7fcdd8c02b38 Delete type=3 #61
-2024/09/15-11:50:27.437279 7fc8d4162b38 Level-0 table #68: started
-2024/09/15-11:50:27.440882 7fc8d4162b38 Level-0 table #68: 3259 bytes OK
-2024/09/15-11:50:27.442809 7fc8d4162b38 Delete type=0 #66
-2024/09/15-11:50:27.444354 7fc8d4162b38 Manual compaction at level-0 from '!scenes!2WVw60iiFZVjFjiU' @ 72057594037927935 : 1 .. '!scenes!7UnOJ38X7Rm7W7WG' @ 0 : 0; will stop at (end)
-2024/09/15-11:50:27.455261 7fc8d4162b38 Manual compaction at level-1 from '!scenes!2WVw60iiFZVjFjiU' @ 72057594037927935 : 1 .. '!scenes!7UnOJ38X7Rm7W7WG' @ 0 : 0; will stop at '!scenes!7UnOJ38X7Rm7W7WG' @ 68 : 1
-2024/09/15-11:50:27.455275 7fc8d4162b38 Compacting 1@1 + 1@2 files
-2024/09/15-11:50:27.458226 7fc8d4162b38 Generated table #69@1: 2 keys, 1817 bytes
-2024/09/15-11:50:27.458237 7fc8d4162b38 Compacted 1@1 + 1@2 files => 1817 bytes
-2024/09/15-11:50:27.459576 7fc8d4162b38 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/09/15-11:50:27.460073 7fc8d4162b38 Delete type=2 #36
-2024/09/15-11:50:27.461039 7fc8d4162b38 Delete type=2 #68
-2024/09/15-11:50:27.491000 7fc8d4162b38 Manual compaction at level-1 from '!scenes!7UnOJ38X7Rm7W7WG' @ 68 : 1 .. '!scenes!7UnOJ38X7Rm7W7WG' @ 0 : 0; will stop at (end)
+2024/09/15-12:07:24.163992 7f8a42002b38 Recovering log #67
+2024/09/15-12:07:24.172477 7f8a42002b38 Delete type=3 #65
+2024/09/15-12:07:24.173710 7f8a42002b38 Delete type=0 #67
+2024/09/15-12:17:04.214900 7f854138eb38 Level-0 table #73: started
+2024/09/15-12:17:04.215529 7f854138eb38 Level-0 table #73: 0 bytes OK
+2024/09/15-12:17:04.219683 7f854138eb38 Delete type=0 #71
+2024/09/15-12:17:04.231545 7f854138eb38 Manual compaction at level-0 from '!scenes!2WVw60iiFZVjFjiU' @ 72057594037927935 : 1 .. '!scenes!7UnOJ38X7Rm7W7WG' @ 0 : 0; will stop at (end)
+2024/09/15-12:17:04.246122 7f854138eb38 Manual compaction at level-1 from '!scenes!2WVw60iiFZVjFjiU' @ 72057594037927935 : 1 .. '!scenes!7UnOJ38X7Rm7W7WG' @ 0 : 0; will stop at (end)

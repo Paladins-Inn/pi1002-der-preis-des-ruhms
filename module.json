@@ -36,16 +36,14 @@
   "download": "https://www.paladins-inn.de/fvtt/pi1002/v11/module.zip",
   "compatibility": {
     "minimum": "11",
-    "verified": "11.315"
+    "maximum": "12",
+    "verified": "12"
   },
-  "esmodules": [
-    "pi1002-der-preis-des-ruhms.js"
-  ],
   "media": [
     {
       "type": "setup",
       "url": "modules/pi1002-der-preis-des-ruhms/assets/art/setup.webp",
-      "thumbnail": "modules/pi000-XXXX/assets/art/setup-thumb.webp",
+      "thumbnail": "modules/pi1002-XXXX/assets/art/setup-thumb.webp",
       "loop": false,
       "flags": {}
     }

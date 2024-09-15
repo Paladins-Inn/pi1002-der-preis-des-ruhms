@@ -1,14 +1,7 @@
-2024/05/27-13:21:23.211611 7f5fb3e02b38 Recovering log #36
-2024/05/27-13:21:23.220770 7f5fb3e02b38 Delete type=3 #34
-2024/05/27-13:21:23.221918 7f5fb3e02b38 Delete type=0 #36
-2024/05/27-13:33:07.994057 7f5d2e85ab38 Level-0 table #42: started
-2024/05/27-13:33:08.003424 7f5d2e85ab38 Level-0 table #42: 7250 bytes OK
-2024/05/27-13:33:08.006945 7f5d2e85ab38 Delete type=0 #40
-2024/05/27-13:33:08.036303 7f5d2e85ab38 Manual compaction at level-0 from '!journal!0dGoe4r9z63Yi9IE' @ 72057594037927935 : 1 .. 'pi1001-de-journal.test2' @ 0 : 0; will stop at '!journal.pages!0dGoe4r9z63Yi9IE.mRJJ3onbzBEIHMjQ' @ 1147 : 1
-2024/05/27-13:33:08.036398 7f5d2e85ab38 Compacting 1@0 + 1@1 files
-2024/05/27-13:33:08.060491 7f5d2e85ab38 Generated table #43@0: 23 keys, 44530 bytes
-2024/05/27-13:33:08.060512 7f5d2e85ab38 Compacted 1@0 + 1@1 files => 44530 bytes
-2024/05/27-13:33:08.062141 7f5d2e85ab38 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/05/27-13:33:08.063290 7f5d2e85ab38 Delete type=2 #42
-2024/05/27-13:33:08.064715 7f5d2e85ab38 Delete type=2 #38
-2024/05/27-13:33:08.065998 7f5d2e85ab38 Manual compaction at level-0 from '!journal.pages!0dGoe4r9z63Yi9IE.mRJJ3onbzBEIHMjQ' @ 1147 : 1 .. 'pi1001-de-journal.test2' @ 0 : 0; will stop at (end)
+2024/08/26-18:24:31.678009 7f6de5602b38 Recovering log #75
+2024/08/26-18:24:31.688257 7f6de5602b38 Delete type=3 #73
+2024/08/26-18:24:31.689503 7f6de5602b38 Delete type=0 #75
+2024/08/26-18:26:12.283651 7f6b633f2b38 Level-0 table #80: started
+2024/08/26-18:26:12.283852 7f6b633f2b38 Level-0 table #80: 0 bytes OK
+2024/08/26-18:26:12.285742 7f6b633f2b38 Delete type=0 #78
+2024/08/26-18:26:12.286826 7f6b633f2b38 Manual compaction at level-0 from '!journal!0dGoe4r9z63Yi9IE' @ 72057594037927935 : 1 .. 'pi1001-de-journal.test2' @ 0 : 0; will stop at (end)

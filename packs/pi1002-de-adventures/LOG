@@ -1,8 +1,15 @@
-2024/05/27-13:33:17.335490 7f5fb2a02b38 Recovering log #22
-2024/05/27-13:33:17.346470 7f5fb2a02b38 Delete type=0 #22
-2024/05/27-13:33:17.347849 7f5fb2a02b38 Delete type=3 #20
-2024/05/27-13:33:33.335523 7f5d2e85ab38 Level-0 table #27: started
-2024/05/27-13:33:33.336858 7f5d2e85ab38 Level-0 table #27: 0 bytes OK
-2024/05/27-13:33:33.343321 7f5d2e85ab38 Delete type=0 #25
-2024/05/27-13:33:33.384142 7f5d2e85ab38 Manual compaction at level-0 from '!adventures!TCVIpcW7YR52xg6Y' @ 72057594037927935 : 1 .. '!adventures!TCVIpcW7YR52xg6Y' @ 0 : 0; will stop at (end)
-2024/05/27-13:33:33.388402 7f5d2e85ab38 Manual compaction at level-1 from '!adventures!TCVIpcW7YR52xg6Y' @ 72057594037927935 : 1 .. '!adventures!TCVIpcW7YR52xg6Y' @ 0 : 0; will stop at (end)
+2024/09/15-10:28:04.095117 7f6de6a02b38 Recovering log #58
+2024/09/15-10:28:04.107594 7f6de6a02b38 Delete type=0 #58
+2024/09/15-10:28:04.115272 7f6de6a02b38 Delete type=3 #56
+2024/09/15-10:38:49.898521 7f6b633f2b38 Level-0 table #63: started
+2024/09/15-10:38:49.902988 7f6b633f2b38 Level-0 table #63: 68447 bytes OK
+2024/09/15-10:38:49.904830 7f6b633f2b38 Delete type=0 #61
+2024/09/15-10:38:49.930025 7f6b633f2b38 Manual compaction at level-0 from '!adventures!TCVIpcW7YR52xg6Y' @ 72057594037927935 : 1 .. '!adventures!TCVIpcW7YR52xg6Y' @ 0 : 0; will stop at (end)
+2024/09/15-10:38:49.930102 7f6b633f2b38 Manual compaction at level-1 from '!adventures!TCVIpcW7YR52xg6Y' @ 72057594037927935 : 1 .. '!adventures!TCVIpcW7YR52xg6Y' @ 0 : 0; will stop at '!adventures!TCVIpcW7YR52xg6Y' @ 5 : 1
+2024/09/15-10:38:49.930106 7f6b633f2b38 Compacting 1@1 + 1@2 files
+2024/09/15-10:38:49.935545 7f6b633f2b38 Generated table #64@1: 1 keys, 68447 bytes
+2024/09/15-10:38:49.935558 7f6b633f2b38 Compacted 1@1 + 1@2 files => 68447 bytes
+2024/09/15-10:38:49.936837 7f6b633f2b38 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/15-10:38:49.937435 7f6b633f2b38 Delete type=2 #63
+2024/09/15-10:38:49.938608 7f6b633f2b38 Delete type=2 #19
+2024/09/15-10:38:49.949233 7f6b633f2b38 Manual compaction at level-1 from '!adventures!TCVIpcW7YR52xg6Y' @ 5 : 1 .. '!adventures!TCVIpcW7YR52xg6Y' @ 0 : 0; will stop at (end)

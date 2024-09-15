@@ -1,7 +1,7 @@
-2024/05/27-13:58:13.227042 7f5fb4802b38 Recovering log #46
-2024/05/27-13:58:13.239237 7f5fb4802b38 Delete type=3 #44
-2024/05/27-13:58:13.240622 7f5fb4802b38 Delete type=0 #46
-2024/05/27-21:25:24.726529 7f5d2e85ab38 Level-0 table #51: started
-2024/05/27-21:25:24.727985 7f5d2e85ab38 Level-0 table #51: 0 bytes OK
-2024/05/27-21:25:24.745324 7f5d2e85ab38 Delete type=0 #49
-2024/05/27-21:25:24.767746 7f5d2e85ab38 Manual compaction at level-0 from '!journal!0dGoe4r9z63Yi9IE' @ 72057594037927935 : 1 .. 'pi1001-de-journal.test2' @ 0 : 0; will stop at (end)
+2024/08/26-18:24:31.678009 7f6de5602b38 Recovering log #75
+2024/08/26-18:24:31.688257 7f6de5602b38 Delete type=3 #73
+2024/08/26-18:24:31.689503 7f6de5602b38 Delete type=0 #75
+2024/08/26-18:26:12.283651 7f6b633f2b38 Level-0 table #80: started
+2024/08/26-18:26:12.283852 7f6b633f2b38 Level-0 table #80: 0 bytes OK
+2024/08/26-18:26:12.285742 7f6b633f2b38 Delete type=0 #78
+2024/08/26-18:26:12.286826 7f6b633f2b38 Manual compaction at level-0 from '!journal!0dGoe4r9z63Yi9IE' @ 72057594037927935 : 1 .. 'pi1001-de-journal.test2' @ 0 : 0; will stop at (end)
